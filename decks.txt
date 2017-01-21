@@ -1,0 +1,24 @@
+23
+midrange shaman, 5/2
+heals priest, 0/1
+pirate warrior, 3/3
+aggro shaman, 8/1
+reno mage, 1/0
+miracle druid, 0/0
+jade druid, 1/5
+aggro hunter, 1/2
+zoolock, 1/0
+jade rogue, 0/1
+dragon priest, 4/3
+dragon warrior, 0/1
+reno priest, 1/1
+beast druid, 0/1
+otk shaman, 1/0
+control warrior, 1/0
+combo druid, 0/1
+freeze mage, 1/0
+cheese rogue, 0/1
+ramp druid, 0/1
+evolve shaman, 1/0
+combo renolock, 0/2
+slow burn renolock, 1/0
