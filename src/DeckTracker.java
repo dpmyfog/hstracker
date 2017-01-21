@@ -8,7 +8,7 @@ public class DeckTracker {
 	private static final String fileName = "decks.txt";
 	private static int numDecks = 0;
 	//COMMANDS
-	private static final String EXIT = "exit";
+	private static final String EXIT = "exits";
 	private static final String ADD_DECK = "add deck";
 	private static final String DELETE_DECK = "delete deck";
 	private static final String VIEW_DECK = "view deck";
@@ -258,10 +258,4 @@ public class DeckTracker {
 			
 		
 	}
-	
-	
-	
-	
-	
-
 }
